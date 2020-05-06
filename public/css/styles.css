@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Staatliches&display=swap");
-@import url("http://db.onlinewebfonts.com/c/175bb37214e59d8e24ee6ea635b2eeff?family=Px+Grotesk+Bold");
+@font-face {
+  font-family: "Px Grotesk Bold";
+  src: url("//db.onlinewebfonts.com/t/175bb37214e59d8e24ee6ea635b2eeff.eot");
+  src: url("//db.onlinewebfonts.com/t/175bb37214e59d8e24ee6ea635b2eeff.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/175bb37214e59d8e24ee6ea635b2eeff.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/175bb37214e59d8e24ee6ea635b2eeff.woff") format("woff"), url("//db.onlinewebfonts.com/t/175bb37214e59d8e24ee6ea635b2eeff.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/175bb37214e59d8e24ee6ea635b2eeff.svg#Px Grotesk Bold") format("svg");
+}
+
 body {
   width: 100%;
   height: 100%;
